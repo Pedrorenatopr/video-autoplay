@@ -105,7 +105,7 @@ nav button.menu.ativo span.dois {
 }
 
 video {
-    background-color: black;
+    background-color: white;
 }
 
 
@@ -227,6 +227,12 @@ video {
     
     
     }
+
+    .video {
+
+    
+    }
+
     
     
 }
